@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Rowdies:wght@300;400;700&display=swap');
+
+.header {
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0; left: 0; right: 0;
+}
+.K {
+  margin-top: 20px;
+  align-items: right;
+}
+.C {
+  line-height: normal;
+  padding-top: 0%;
+}
+.kappa {
+    color: #FFFAE9;
+    font-size: 100px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+
+}
+.finca {
+  color: #FFFAE9;
+  font-size: 35px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 100px;
+  margin-top: 250px;
+}
+
+.hm {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: left;
+}
+ul {
+  list-style-type: none;
+    margin: 0;
+    padding: 25px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+a {
+	color:#FFFAE9;
+}
+
+li a {
+  float: left;
+  border-right:3px solid #FFFAE9;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+.FT {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: left;
+    color:#FFFAE9;
+    align-items: flex-end;
+    display: block;
+    padding: 20px 30px;
+    text-decoration: none;
+    margin-top: 520px;
+
+}
+
+body {
+    background-image: url(IMÁGENES/fondoopacidad.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
